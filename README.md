@@ -55,7 +55,7 @@ The "AI Mock Interviewer" is built with a modern, high-performance stack designe
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/ishurana001/Interviewer-AI-Ongoing-
+   git clone https://github.com/ishurana001/Interviewer-AI-Ongoing
    ```
 2. **Install dependencies:**
    ```bash
